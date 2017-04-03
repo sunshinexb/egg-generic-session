@@ -58,5 +58,9 @@
   },
   "homepage": "git+https://github.com/sunshinexb/egg-generic-session.git#readme",
   "author": "xiaobin",
-  "license": "MIT"
+  "license": "MIT",
+  "main": ".autod.conf.js",
+  "directories": {
+    "test": "test"
+  }
 }
